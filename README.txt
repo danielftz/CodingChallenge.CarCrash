@@ -1,4 +1,3 @@
-
 It's a normal day in the Meescan office with Andrea and Peter gone.
 Eamonn is exchanging jokes on Cliq with Robyn. Amar is deep into his TikTok feed. Sofonias is watching Pluralsight. Meagan is finishing her cross-stitching art while simultaneously making her way through the study materials for an upcoming exam. Daniel just walked in. Everyone else is deep into a dart tournament while Rachel somehow manages to be on the phone and carry a conversation in all this noise.
 The team is interrupted by some commotion on the street outside. Some hobos standing in the line for the injection site got into a fight and caused a traffic havoc. Michael snapped a picture of the street with his phone but then Ellen scored triple 20 and the team's attention turned back to the usual office affairs. All of a sudden, there's a huge accident outside. Police and ambulances on the scene. Maple Ridge police is famous for being swift so by the time the team go back to the window, the scene is almost completely cleaned and the traffic is restored. Typical!
@@ -21,5 +20,3 @@ Examples:
 "<=>" => 0 // cars on the sides move away and the car in the centre stays put
 ">>=<><" => 5
 ">>><><<><<>>==<>==<><<>><><>=><=" => 26
-Codoing challenge - December 2022.txt
-Displaying Codoing challenge - December 2022.txt.
